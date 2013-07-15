@@ -1,7 +1,7 @@
 package kr.co.datastreams.cube.collector;
 
 
-import kr.co.datastreams.cube.commons.util.StringUtil;
+import kr.co.datastreams.commons.util.StringUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
